@@ -11,7 +11,6 @@ int main()
 
     int numbersecret = 42;
     int choise;
-
     int i = 1;
 
     while(1)
