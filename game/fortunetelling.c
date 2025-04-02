@@ -35,7 +35,7 @@ int main()
     int level;
     printf("What is the difficulty level?\n");
     printf("(1)Easy (2)Medium (3)Difficult\n\n");
-    printf("Escolha: ");
+    printf("Choice: ");
     scanf("%d", &level);
 
     int numbertry;
